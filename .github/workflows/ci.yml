@@ -19,11 +19,11 @@ jobs:
     steps:
       # Checks-out PeekabooAV-Installer under $GITHUB_WORKSPACE
       - name: Check out PeekabooAV-Installer
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       # put PeekabooAV below that as expected by the installer
       - name: Check out PeekabooAV
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           repository: science-computing/PeekabooAV
           path: PeekabooAV
