@@ -1,7 +1,7 @@
 # PeekabooAV-Demo Setup
 #  user and database definition
-#  https://github.com/scvenus/peekabooav
-#  https://github.com/scvenus/peekabooav-installer
+#  https://github.com/science-computing/peekabooav
+#  https://github.com/science-computing/peekabooav-installer
 #
 # usage:
 #  mysql -u root -p < mysql.txt

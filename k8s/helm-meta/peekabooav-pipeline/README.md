@@ -11,7 +11,7 @@ Installation
 Install using helm:
 
 ``` shell
-helm repo add peekaboo https://scvenus.github.io/PeekabooAV-Installer/
+helm repo add peekaboo https://science-computing.github.io/PeekabooAV-Installer/
 helm install pipeline --namespace pipeline --create-namespace peekaboo/peekabooav-pipeline --values peekabooav-pipeline-values.yaml
 ```
 

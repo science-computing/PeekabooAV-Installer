@@ -1,6 +1,6 @@
 # PeekabooAV Installer #
 
-[![CI](https://github.com/scVENUS/PeekabooAV-Installer/actions/workflows/ci.yml/badge.svg)](https://github.com/scVENUS/PeekabooAV-Installer/actions/workflows/ci.yml)
+[![CI](https://github.com/science-computing/PeekabooAV-Installer/actions/workflows/ci.yml/badge.svg)](https://github.com/science-computing/PeekabooAV-Installer/actions/workflows/ci.yml)
 
 This repository provides scripts and configuration files to install/update and test a
 Peekaboo installation.
@@ -36,7 +36,7 @@ process of a testing environment is also available.
 ### This is what you type (copy - paste)
 For a released version, e.g. 2.1
 ```
-git clone -b v2.1 https://github.com/scVENUS/PeekabooAV-Installer
+git clone -b v2.1 https://github.com/science-computing/PeekabooAV-Installer
 cd PeekabooAV-Installer/
 ./PeekabooAV-install.sh
 ```
@@ -50,9 +50,9 @@ This behaviour can be changed by adjusting `peekaboo_pip_constraint` in
 
 Or for testing most recent changes of the repository
 ```
-git clone https://github.com/scVENUS/PeekabooAV-Installer
+git clone https://github.com/science-computing/PeekabooAV-Installer
 cd PeekabooAV-Installer/
-git clone https://github.com/scVENUS/PeekabooAV
+git clone https://github.com/science-computing/PeekabooAV
 ./PeekabooAV-install.sh
 ```
 
@@ -129,9 +129,9 @@ utils/checkFileWithPeekaboo.py grafana/Screenshot-2018-1-17\ Grafana\ -\ Peekabo
 ### This is what you type (copy - paste)
 
 ```
-git clone https://github.com/scVENUS/PeekabooAV-Installer
+git clone https://github.com/science-computing/PeekabooAV-Installer
 cd PeekabooAV-Installer/
-git clone https://github.com/scVENUS/PeekabooAV
+git clone https://github.com/science-computing/PeekabooAV
 ```
 
 Then carry on reading [pipeline/README.md](pipeline/README.md)

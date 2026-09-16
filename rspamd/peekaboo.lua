@@ -18,7 +18,7 @@ limitations under the License.
 --[[[
 -- @module peekaboo
 -- This module contains peekaboo access functions.
--- Peekaboo is needed: https://github.com/scVENUS/PeekabooAV
+-- Peekaboo is needed: https://github.com/science-computing/PeekabooAV
 --]]
 
 local lua_util = require "lua_util"
