@@ -9,7 +9,7 @@ entries:
     name: cortex-setup
     type: application
     urls:
-    - https://github.com/scVENUS/PeekabooAV-Installer/releases/download/cortex-setup-0.1.4/cortex-setup-0.1.4.tgz
+    - https://github.com/science-computing/PeekabooAV-Installer/releases/download/cortex-setup-0.1.4/cortex-setup-0.1.4.tgz
     version: 0.1.4
   postfix:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: postfix
     type: application
     urls:
-    - https://github.com/scVENUS/PeekabooAV-Installer/releases/download/postfix-0.1.4/postfix-0.1.4.tgz
+    - https://github.com/science-computing/PeekabooAV-Installer/releases/download/postfix-0.1.4/postfix-0.1.4.tgz
     version: 0.1.4
 generated: "2023-06-13T10:43:34.101538606Z"
